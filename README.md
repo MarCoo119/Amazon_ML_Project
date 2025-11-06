@@ -45,7 +45,7 @@ The following diagram illustrates the complete data flow of the product price pr
 
 mermaid
 flowchart LR
-
+```mermaid
     A[Raw Product Data]
 
     A --> B[Data Preprocessing]
@@ -67,7 +67,7 @@ flowchart LR
     E --> F[Prediction]
     F --> F1[Inverse Log-Transform → Final Price]
 
-
+```
 
 ### 3.2 Model Components
 
@@ -115,6 +115,7 @@ Code Directory Structure:
 mermaid
 
 flowchart LR
+```mermaid
 
     A[📁 Smart_Product_Pricing/]
 
@@ -137,7 +138,7 @@ flowchart LR
 
     A --> F[📘 README.md]
 
-
+```
 
 
 ---
