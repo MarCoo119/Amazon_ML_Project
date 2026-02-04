@@ -10,7 +10,7 @@ Team Members:
 - Ritesh Yadav  
 - Ayush Prajapati  
 
-Submission Date: 13 October 2025
+Submission Date: October 2025
 
 ---
 
